@@ -1,0 +1,15 @@
+[package]
+name = "brize_db"
+version = "0.1.0"
+edition = "2021"
+authors=["Jonathan Karrer <karrerjon@gmail.com>"]
+description = "Light db module for Brize"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/xbrize/brize_db"
+readme = "README.md"
+keywords = ["db"]
+categories = ["software"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
